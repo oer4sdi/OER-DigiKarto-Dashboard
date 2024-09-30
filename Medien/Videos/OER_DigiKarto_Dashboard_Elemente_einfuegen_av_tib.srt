@@ -1,0 +1,251 @@
+1
+00:00:09,176 --> 00:00:10,536
+Wenn ihr nun dashboard Elemente
+
+2
+00:00:10,536 --> 00:00:13,016
+hinzufügen möchtet, könnt ihr dies tun.
+
+3
+00:00:13,016 --> 00:00:14,576
+Über die Schaltfläche in der oberen
+
+4
+00:00:14,576 --> 00:00:17,376
+linken Ecke und über Element hinzufügen.
+
+5
+00:00:18,516 --> 00:00:21,076
+Nun erscheinen verschiedene Positionen,
+
+6
+00:00:21,076 --> 00:00:23,316
+an denen ihr Elemente hinzufügen könnt.
+
+7
+00:00:23,876 --> 00:00:25,876
+Das sind an den Rändern von schon bereits
+
+8
+00:00:25,876 --> 00:00:27,036
+entstehenden Elementen.
+
+9
+00:00:28,276 --> 00:00:30,396
+Oder in der Mitte von einem Element.
+
+10
+00:00:31,436 --> 00:00:33,236
+Je nachdem, welche Position ihr auswählt,
+
+11
+00:00:33,236 --> 00:00:34,836
+variieren diese Elemente ebenfalls.
+
+12
+00:00:36,026 --> 00:00:37,786
+Hier können wir zwischen Karte,
+
+13
+00:00:37,786 --> 00:00:39,506
+kartenlegende, reindiagramm,
+
+14
+00:00:39,506 --> 00:00:42,386
+kreisdiagramm, Indikator, Skala,
+
+15
+00:00:42,386 --> 00:00:45,186
+Liste, Tabelle, Details, richtets und
+
+16
+00:00:45,186 --> 00:00:46,866
+eingebetteten Inhalt auswählen.
+
+17
+00:00:48,156 --> 00:00:50,476
+Hier an der linken Seite kommt dazu noch
+
+18
+00:00:50,476 --> 00:00:52,956
+die Möglichkeit eine Seitenleiste wählen.
+
+19
+00:00:53,836 --> 00:00:56,156
+Im oberen Bereich eine Kopfzeile.
+
+20
+00:00:58,576 --> 00:01:00,896
+Nun könnt ihr 1 dieser Elemente
+
+21
+00:01:00,896 --> 00:01:02,776
+auswählen, beispielsweise jetzt die
+
+22
+00:01:02,776 --> 00:01:05,096
+Kartenlegende und diese
+
+23
+00:01:05,536 --> 00:01:08,516
+ebenfalls noch bearbeiten. Was die
+
+24
+00:01:08,516 --> 00:01:10,356
+einzelnen Elemente tun, ist in der
+
+25
+00:01:10,356 --> 00:01:13,236
+Slideshow oben erklärt. Hier könnt ihr
+
+26
+00:01:13,236 --> 00:01:14,836
+jetzt noch zu dem jeweiligen Element
+
+27
+00:01:14,836 --> 00:01:16,036
+weitere Einstellungen treffen.
+
+28
+00:01:17,596 --> 00:01:19,356
+Wie ihr seht, wenn ihr ein Element
+
+29
+00:01:19,356 --> 00:01:21,636
+erstellt auf einem schon entstehenden
+
+30
+00:01:21,636 --> 00:01:23,556
+Element, wird dies mit einer
+
+31
+00:01:23,556 --> 00:01:25,156
+Registerkarte Versehen und ihr könnt
+
+32
+00:01:25,156 --> 00:01:26,036
+dazwischen wechseln.
+
+33
+00:01:28,376 --> 00:01:30,536
+Wie ihr Elemente bearbeitet
+
+34
+00:01:30,536 --> 00:01:32,936
+beziehungsweise verschiebt, ist in der
+
+35
+00:01:32,936 --> 00:01:34,296
+oberen linken Ecke von jedem Element.
+
+36
+00:01:34,296 --> 00:01:35,736
+Über diese 3 Punkte geregelt.
+
+37
+00:01:37,296 --> 00:01:39,656
+Zum einen gibt es hier die Möglichkeit zu
+
+38
+00:01:39,656 --> 00:01:42,216
+konfigurieren, zu duplizieren und zu
+
+39
+00:01:42,496 --> 00:01:44,336
+löschen, aber ebenfalls auch die
+
+40
+00:01:44,336 --> 00:01:47,196
+Möglichkeit, es zu ziehen. Und nun können
+
+41
+00:01:47,196 --> 00:01:50,156
+wir, wie eben schon an die Punkte,
+
+42
+00:01:50,156 --> 00:01:52,076
+wo man eben Sachen hinzufügen konnte.
+
+43
+00:01:52,076 --> 00:01:53,476
+Kommen wir nun, dieses Ziehen
+
+44
+00:01:53,716 --> 00:01:54,876
+beispielsweise an den rechten Rand.
+
+45
+00:01:56,766 --> 00:01:59,756
+Nun wird der Bildschirm geteilt. Würden
+
+46
+00:01:59,756 --> 00:02:01,276
+wir jetzt noch ein weiteres Element
+
+47
+00:02:01,276 --> 00:02:03,236
+hinzufügen, sehen wir, dass wir mehr
+
+48
+00:02:03,236 --> 00:02:05,676
+Möglichkeiten haben, wenn beispielsweise
+
+49
+00:02:05,676 --> 00:02:08,356
+auch auf der Legende am
+
+50
+00:02:08,356 --> 00:02:09,916
+unteren Rand auswählen.
+
+51
+00:02:11,276 --> 00:02:13,156
+Hier kann man jetzt beispielsweise ein
+
+52
+00:02:13,156 --> 00:02:16,126
+Textfeld einfügen. Dies
+
+53
+00:02:16,126 --> 00:02:16,766
+füllen.
+
+54
+00:02:19,376 --> 00:02:22,096
+Und man sieht, es wird im unteren
+
+55
+00:02:22,096 --> 00:02:24,216
+Bereich unter der Legende eingeführt.
+
+56
+00:02:25,516 --> 00:02:27,116
+Jetzt können wir dieses ebenfalls wieder
+
+57
+00:02:27,116 --> 00:02:28,996
+verschieben und zum Beispiel über die
+
+58
+00:02:28,996 --> 00:02:30,996
+Legende ziehen, so dass diese Plätze
+
+59
+00:02:30,996 --> 00:02:33,436
+tauschen. Und so könnt ihr euer
+
+60
+00:02:33,436 --> 00:02:35,116
+Dashboard anordnen,
+
+61
+00:02:35,476 --> 00:02:37,836
+individualisieren und
+
+62
+00:02:38,556 --> 00:02:41,196
+die einzelnen Elemente hinzufügen, die
+
+63
+00:02:41,196 --> 00:02:42,796
+ihr für euer Dashboard benötigt.

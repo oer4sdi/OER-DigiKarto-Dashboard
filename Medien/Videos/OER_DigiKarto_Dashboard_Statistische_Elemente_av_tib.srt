@@ -1,0 +1,543 @@
+1
+00:00:08,916 --> 00:00:10,676
+Nun gibt es aber auch Dashboard Elemente,
+
+2
+00:00:10,676 --> 00:00:12,516
+die auf der Datengrundlage der Webmap
+
+3
+00:00:12,516 --> 00:00:14,916
+fungieren, wie zum Beispiel
+
+4
+00:00:14,916 --> 00:00:17,556
+Diagramme, ein Indikator oder eine Skala.
+
+5
+00:00:19,336 --> 00:00:21,056
+Dafür ist die Einpflegung etwas
+
+6
+00:00:21,056 --> 00:00:23,556
+komplexer. Wir
+
+7
+00:00:23,556 --> 00:00:26,196
+fügen am unteren Rand hier zum Beispiel
+
+8
+00:00:26,196 --> 00:00:28,156
+mal eine Skala ein.
+
+9
+00:00:29,276 --> 00:00:31,396
+Und müssen nun ein Layer
+
+10
+00:00:31,396 --> 00:00:34,236
+auswählen, aus dem wir die Daten nutzen
+
+11
+00:00:34,236 --> 00:00:36,236
+möchten. Es kann im Nachhinein auch noch
+
+12
+00:00:36,236 --> 00:00:39,186
+geändert werden. Wir möchten
+
+13
+00:00:39,466 --> 00:00:41,186
+die Daten aus den Fahrradunfällen für
+
+14
+00:00:41,186 --> 00:00:43,506
+diese Skala nutzen. Deswegen, deswegen
+
+15
+00:00:43,506 --> 00:00:45,266
+wählen wir auch diesen Layer aus.
+
+16
+00:00:48,356 --> 00:00:50,549
+DerLeia kann hier oben aber auch wieder
+
+17
+00:00:50,549 --> 00:00:52,869
+geändert werden. Wir bleiben aber bei
+
+18
+00:00:52,869 --> 00:00:54,069
+unserem Fahrradunfall Layer.
+
+19
+00:00:56,119 --> 00:00:57,679
+Nun sehen wir schon eine kleine Vorschau.
+
+20
+00:00:59,109 --> 00:01:01,469
+Im Bereich Filtern können nun die
+
+21
+00:01:01,469 --> 00:01:03,909
+Gesamtzahl der Daten gefiltert werden.
+
+22
+00:01:04,469 --> 00:01:07,229
+Das bedeutet, wir könnten hier sagen, wir
+
+23
+00:01:07,229 --> 00:01:10,109
+möchten nur die Daten der eines
+
+24
+00:01:10,109 --> 00:01:11,349
+bestimmten Regierungsbezirks
+
+25
+00:01:11,349 --> 00:01:14,349
+beispielsweise. Einbezogen
+
+26
+00:01:14,349 --> 00:01:17,279
+werden. Das ist sinnvoll,
+
+27
+00:01:17,319 --> 00:01:20,109
+wenn man. Spezifische.
+
+28
+00:01:21,029 --> 00:01:23,749
+Statische Filter anwenden möchte und
+
+29
+00:01:23,749 --> 00:01:25,429
+nicht dynamische, wie wir später noch
+
+30
+00:01:25,429 --> 00:01:28,389
+lernen werden. Wir lassen dies erstmal
+
+31
+00:01:28,389 --> 00:01:28,989
+außen vor.
+
+32
+00:01:30,859 --> 00:01:33,299
+Nun kommen wir den
+
+33
+00:01:33,299 --> 00:01:35,829
+Wertetypen. Einmal
+
+34
+00:01:35,829 --> 00:01:38,309
+gibt es die im Werttyp Statistik.
+
+35
+00:01:39,669 --> 00:01:42,109
+Hier wählt man zunächst eine Art von
+
+36
+00:01:42,109 --> 00:01:44,749
+Statistik aus. Hierbei könnt ihr euch
+
+37
+00:01:44,749 --> 00:01:47,589
+zwischen Anzahl, Durchschnitt, Minimum,
+
+38
+00:01:47,589 --> 00:01:50,109
+Maximum, Summe der Standardabweichung,
+
+39
+00:01:50,509 --> 00:01:53,469
+Diskontinuierlichen Perzentilwert
+
+40
+00:01:53,469 --> 00:01:55,829
+oder dem kontinuierlichen Perzentilwert
+
+41
+00:01:55,829 --> 00:01:56,309
+entscheiden.
+
+42
+00:01:59,949 --> 00:02:02,069
+Und darunter wählt ihr nun das Attribut
+
+43
+00:02:02,069 --> 00:02:03,389
+aus, für welches ihr die Statistik
+
+44
+00:02:03,389 --> 00:02:06,029
+berechnen wollt. Hier ist darauf zu
+
+45
+00:02:06,029 --> 00:02:08,929
+achten. Dass
+
+46
+00:02:08,929 --> 00:02:11,889
+sich die meisten Statistiken nur
+
+47
+00:02:11,889 --> 00:02:14,329
+auf Felder mit Zahlentypen wie Indischer
+
+48
+00:02:14,329 --> 00:02:17,189
+oder Double anwenden lassen. Dazu
+
+49
+00:02:17,189 --> 00:02:19,149
+gehören alle außer die Anzahl.
+
+50
+00:02:20,709 --> 00:02:22,229
+In unserem Beispiel besitzen wir keine
+
+51
+00:02:22,229 --> 00:02:24,309
+Zahlenfelder außer die eingetragenen
+
+52
+00:02:24,309 --> 00:02:26,429
+Koordinaten, weil
+
+53
+00:02:26,989 --> 00:02:29,669
+unsere unserer Tabelle zahlen stehen, die
+
+54
+00:02:29,669 --> 00:02:31,629
+sie ja nur als Platzhalter dienen für die
+
+55
+00:02:31,629 --> 00:02:34,149
+anderen Elemente. Die wir ja mit den
+
+56
+00:02:34,149 --> 00:02:36,469
+Metadaten im Endeffekt übersetzen können.
+
+57
+00:02:37,959 --> 00:02:39,759
+Wir nutzen daher für das Beispiel die
+
+58
+00:02:39,759 --> 00:02:41,999
+Statistikanzahl, da diese auch mit
+
+59
+00:02:41,999 --> 00:02:43,079
+Textfeldern formuliert.
+
+60
+00:02:44,659 --> 00:02:46,579
+Und Nimm eines der Felder.
+
+61
+00:02:47,829 --> 00:02:50,069
+Hier ist es egal welches wir nehmen, da
+
+62
+00:02:50,069 --> 00:02:52,589
+wir nur die Anzahl an Features zählen.
+
+63
+00:02:52,949 --> 00:02:55,229
+Dabei ist es egal, welche Spalte wir
+
+64
+00:02:55,229 --> 00:02:57,829
+dabei berücksichtigen. Wenn trotzdem.
+
+65
+00:02:58,669 --> 00:03:01,069
+Einfach die ist Rad Spalte nehmen.
+
+66
+00:03:04,809 --> 00:03:06,449
+Folgen können wir noch die minimale
+
+67
+00:03:06,449 --> 00:03:09,169
+Maximalwerte einstellen. Dabei
+
+68
+00:03:09,169 --> 00:03:11,409
+können zwischen statistischen und.
+
+69
+00:03:13,019 --> 00:03:15,899
+Festgelegten Werten unterschieden werden.
+
+70
+00:03:18,289 --> 00:03:20,329
+Als Standardwerte sind beim festgelegten
+
+71
+00:03:20,329 --> 00:03:22,169
+Werten 0 und 100 angegeben.
+
+72
+00:03:23,629 --> 00:03:25,709
+Da wir uns anzeigen lassen möchten, wie
+
+73
+00:03:25,709 --> 00:03:27,669
+viele Unfälle in einem Gebiet vorgefallen
+
+74
+00:03:27,669 --> 00:03:30,429
+sind, bleiben wir bei einem festgelegten
+
+75
+00:03:30,429 --> 00:03:33,189
+Wert von 0. Dies das absolute Minimum
+
+76
+00:03:33,189 --> 00:03:35,669
+ist und nehmen einen statistischen
+
+77
+00:03:35,669 --> 00:03:36,509
+Maximalwert.
+
+78
+00:03:40,029 --> 00:03:42,869
+Hier werden wir ebenfalls wieder die
+
+79
+00:03:42,869 --> 00:03:45,829
+Anzahl und eines der Felder aus. Da
+
+80
+00:03:45,829 --> 00:03:47,789
+wir die Gesamtzahl der Unfälle als
+
+81
+00:03:47,789 --> 00:03:48,949
+Maximum haben möchten.
+
+82
+00:03:50,829 --> 00:03:52,549
+Dies ist hier auch schon automatisch
+
+83
+00:03:53,189 --> 00:03:55,789
+eben. Ihr seht jetzt auch schon im
+
+84
+00:03:55,789 --> 00:03:57,869
+rechten Bereich die Vorschau. Dort haben
+
+85
+00:03:57,869 --> 00:03:59,869
+wir als Minimum 0 als Maximum
+
+86
+00:03:59,869 --> 00:04:02,749
+ 19,6 1000. Und.
+
+87
+00:04:03,629 --> 00:04:05,589
+Die derweilige Anzahl beträgt auch
+
+88
+00:04:05,589 --> 00:04:08,349
+ 19,6 1000. Bisher hätte
+
+89
+00:04:08,349 --> 00:04:09,549
+dies auch von einem Indikator
+
+90
+00:04:09,549 --> 00:04:11,469
+durchgeführt werden können, aber im
+
+91
+00:04:11,469 --> 00:04:13,669
+folgenden Kapitel lernen wir wie Filter.
+
+92
+00:04:14,469 --> 00:04:16,229
+Auf Elemente angewendet werden können.
+
+93
+00:04:17,269 --> 00:04:19,269
+Und sehen dann den Mehrwert, den die
+
+94
+00:04:19,269 --> 00:04:20,469
+Skala bringt.
+
+95
+00:04:26,739 --> 00:04:28,019
+Der zweite Wertetyp.
+
+96
+00:04:29,999 --> 00:04:32,359
+Ist für unser Beispiel uninteressant, da
+
+97
+00:04:32,359 --> 00:04:34,679
+dieser ebenfalls nur mit Zeilenfeldern
+
+98
+00:04:34,679 --> 00:04:35,279
+arbeitet.
+
+99
+00:04:37,569 --> 00:04:40,089
+Hier gib mal ein Wertfeld an und bekommt
+
+100
+00:04:40,089 --> 00:04:42,649
+für jedes Feature eine einzelne Skala.
+
+101
+00:04:43,869 --> 00:04:45,709
+Beispielsweise nehmen wir hier eines der
+
+102
+00:04:45,709 --> 00:04:48,149
+Wertfelder, das in die Koordinatenfelder
+
+103
+00:04:48,149 --> 00:04:51,069
+von unseren Unfällen. Beispiel sieht man
+
+104
+00:04:51,069 --> 00:04:53,789
+schon, dass dies die Skala 1 Punkt 50 ist
+
+105
+00:04:54,389 --> 00:04:56,989
+. 50 wird hier durch die maximal
+
+106
+00:04:56,989 --> 00:04:59,509
+angezeigte Features Angabe begrenzt.
+
+107
+00:05:00,349 --> 00:05:02,749
+Wird diese nicht auf 50 stehen, sondern
+
+108
+00:05:02,949 --> 00:05:05,389
+höher würde, würden hier auch mehr
+
+109
+00:05:05,389 --> 00:05:08,109
+Features, mehr Skalen angezeigt werden.
+
+110
+00:05:08,989 --> 00:05:10,949
+Mit anderen Datensätzen kann dies eine
+
+111
+00:05:10,949 --> 00:05:12,629
+sehr sinnvolle Wahl sein, da man
+
+112
+00:05:12,629 --> 00:05:14,189
+beispielsweise die Temperaturen an
+
+113
+00:05:14,189 --> 00:05:16,069
+mehreren Standorten und nicht nur die
+
+114
+00:05:16,069 --> 00:05:18,229
+durchschnittliche Temperatur von allen
+
+115
+00:05:18,229 --> 00:05:20,229
+Standorten zusammen darstellen möchte.
+
+116
+00:05:21,069 --> 00:05:23,189
+Unser Beispiel bleiben wir aber bei der
+
+117
+00:05:23,189 --> 00:05:23,869
+Statistik.
+
+118
+00:05:27,359 --> 00:05:30,199
+In den anderen Tabs können nun visuelle
+
+119
+00:05:30,359 --> 00:05:31,839
+Einstellungen vorgenommen werden.
+
+120
+00:05:33,319 --> 00:05:36,159
+Im Tab Skala können beispielsweise Form,
+
+121
+00:05:36,159 --> 00:05:38,119
+Farbe und Wertformatierung durchgeführt
+
+122
+00:05:38,119 --> 00:05:39,879
+werden. Man kann hier zwischen
+
+123
+00:05:40,399 --> 00:05:42,879
+verschiedenen Formen auswählen, man kann
+
+124
+00:05:42,879 --> 00:05:45,639
+die Werte als Prozentangaben
+
+125
+00:05:45,679 --> 00:05:46,359
+darstellen.
+
+126
+00:05:48,769 --> 00:05:50,009
+Und die Farben anpassen.
+
+127
+00:05:52,809 --> 00:05:54,729
+Im Tab allgemein kann man wie bei den
+
+128
+00:05:54,729 --> 00:05:57,009
+nicht statistischen Elementen Titel und
+
+129
+00:05:57,009 --> 00:05:59,709
+Beschreibung hinzufügen. Dies ist sehr
+
+130
+00:05:59,709 --> 00:06:02,429
+sinnvoll, da man so direkt
+
+131
+00:06:02,429 --> 00:06:04,229
+erkennen kann, für was diese Skala
+
+132
+00:06:04,229 --> 00:06:07,189
+benutzt wurde. Und
+
+133
+00:06:07,189 --> 00:06:09,349
+so können wir nun
+
+134
+00:06:10,069 --> 00:06:12,389
+auch statistische Elemente unserem
+
+135
+00:06:12,389 --> 00:06:15,069
+Dashboard hinzufügen und dies weiter
+
+136
+00:06:15,069 --> 00:06:15,589
+aufbauen.

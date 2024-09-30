@@ -1,0 +1,275 @@
+1
+00:00:08,741 --> 00:00:10,261
+Es gibt aber auch noch die Möglichkeit,
+
+2
+00:00:10,261 --> 00:00:13,021
+räumlich zu filtern. Zuvor haben wir die
+
+3
+00:00:13,021 --> 00:00:14,941
+Filterung eher durch Vergleichen der
+
+4
+00:00:14,941 --> 00:00:16,871
+Tabellen. Getätigt.
+
+5
+00:00:17,911 --> 00:00:20,471
+Jetzt möchten wir sagen,
+
+6
+00:00:20,791 --> 00:00:23,231
+habe die und die Fläche auf meiner
+
+7
+00:00:23,231 --> 00:00:26,231
+Karte, zeig mir die Statistik für die
+
+8
+00:00:26,231 --> 00:00:27,391
+Werte in dieser Fläche.
+
+9
+00:00:29,401 --> 00:00:32,121
+Das kann man auf 2 Arten machen, entweder
+
+10
+00:00:32,121 --> 00:00:35,041
+ebenfalls über eine Liste oder über die
+
+11
+00:00:35,041 --> 00:00:37,721
+Karte direkt am Beispiel der
+
+12
+00:00:37,721 --> 00:00:39,561
+Karte. Dort gehen wir in die
+
+13
+00:00:39,561 --> 00:00:42,161
+Einstellungen der Karte und unter Layer
+
+14
+00:00:42,161 --> 00:00:44,761
+Aktion. Hier seht ihr nun eure Layer.
+
+15
+00:00:45,671 --> 00:00:47,151
+Hier wählt ihr jetzt den Layer aus.
+
+16
+00:00:48,841 --> 00:00:51,041
+Mit deren Statistik ihr in Filter
+
+17
+00:00:51,041 --> 00:00:53,911
+anwenden wollt. Unsere Statistiken
+
+18
+00:00:53,911 --> 00:00:55,471
+beziehungsweise unsere Diagramme laufen
+
+19
+00:00:55,471 --> 00:00:57,831
+alle auf dem Layer FAHRRADUNFÄLLE der NRW
+
+20
+00:00:58,511 --> 00:01:01,111
+deshalb. Wähle ich den aus?Und wähle hier
+
+21
+00:01:01,111 --> 00:01:04,011
+filtern aus. Jetzt habt
+
+22
+00:01:04,011 --> 00:01:06,971
+ihr, ähnlich wie eben die Übersicht
+
+23
+00:01:06,971 --> 00:01:09,611
+über alle Diagramme in eurem Dashboard.
+
+24
+00:01:10,571 --> 00:01:11,851
+Wir nehmen als Beispiel erneut den
+
+25
+00:01:11,851 --> 00:01:14,711
+Indikator. Und aktivieren dies.
+
+26
+00:01:17,401 --> 00:01:19,081
+Jetzt ist es noch wichtig, die
+
+27
+00:01:19,081 --> 00:01:21,241
+Auswahlwerkzeuge auf der Karte zu
+
+28
+00:01:21,241 --> 00:01:21,601
+aktivieren.
+
+29
+00:01:25,111 --> 00:01:27,391
+Dazu müsst ihr einmal Features auswählen
+
+30
+00:01:27,391 --> 00:01:27,991
+aktivieren.
+
+31
+00:01:30,671 --> 00:01:32,551
+Und könnt hier auswählen, welche
+
+32
+00:01:32,911 --> 00:01:35,071
+unterschiedlichen Auswegewerkzeuge ihr
+
+33
+00:01:35,071 --> 00:01:36,471
+bereitstellen möchtet. Dem Nutzer.
+
+34
+00:01:38,511 --> 00:01:40,591
+Diese Auswahlwerkzeuge erscheinen nun in
+
+35
+00:01:40,591 --> 00:01:42,471
+der oberen rechten Ecke und hier könnt
+
+36
+00:01:42,471 --> 00:01:44,911
+ihr auswählen, welches ihr nutzen
+
+37
+00:01:44,911 --> 00:01:46,951
+möchtet. In dem beispielsweise mal das
+
+38
+00:01:46,951 --> 00:01:49,511
+Rechteck. Jetzt hat die Möglichkeit auf
+
+39
+00:01:49,511 --> 00:01:51,551
+der Karte ein Rechteck zu zeichnen.
+
+40
+00:01:53,121 --> 00:01:55,281
+Ihr seht, die Daten werden ausgewählt.
+
+41
+00:01:56,431 --> 00:01:59,431
+Und die Anzahl der Unfälle hat
+
+42
+00:01:59,431 --> 00:02:02,231
+sich verändert. Diese zählt
+
+43
+00:02:02,231 --> 00:02:03,951
+nämlich jetzt nur die Unfälle, die hier
+
+44
+00:02:03,951 --> 00:02:04,751
+ausgewählt sind.
+
+45
+00:02:07,761 --> 00:02:09,321
+Dies ist auch möglich.
+
+46
+00:02:10,751 --> 00:02:13,111
+Ohne eine Auswahl auf der Karte, sondern
+
+47
+00:02:13,111 --> 00:02:16,101
+über die Liste. Dazu gehen wir
+
+48
+00:02:16,101 --> 00:02:17,541
+in die Konfiguration der Liste.
+
+49
+00:02:19,071 --> 00:02:20,311
+Nun Aktion erneut.
+
+50
+00:02:21,851 --> 00:02:24,011
+Hier haben wir eben die Felder
+
+51
+00:02:24,011 --> 00:02:26,491
+verglichen. Jetzt nehmen wir aber die
+
+52
+00:02:26,491 --> 00:02:29,051
+räumliche Methode, dazu braucht es keine
+
+53
+00:02:29,051 --> 00:02:30,131
+weiteren Einstellungen.
+
+54
+00:02:32,421 --> 00:02:33,701
+Sondern wir klicken einfach auf fertig.
+
+55
+00:02:36,621 --> 00:02:38,661
+Wählen wir als Beispiel nun Arnsberg aus?
+
+56
+00:02:40,351 --> 00:02:41,951
+Sehen wir, dass sich die Anzahl der
+
+57
+00:02:41,951 --> 00:02:44,471
+Unfälle ebenfalls verändert. Dies liegt
+
+58
+00:02:44,471 --> 00:02:46,751
+daran, dass nun, obwohl wir.
+
+59
+00:02:47,751 --> 00:02:50,191
+Die Polygone ja nicht sehen, trotzdem
+
+60
+00:02:50,431 --> 00:02:52,951
+nur die Unfälle gezählt werden,
+
+61
+00:02:53,351 --> 00:02:55,591
+die sich. Im Bereich des
+
+62
+00:02:55,591 --> 00:02:58,311
+Polygons der Bezirksregierung Ahnsberg
+
+63
+00:02:58,311 --> 00:03:01,241
+befinden. Auf
+
+64
+00:03:01,241 --> 00:03:03,481
+diese Weise könnt ihr nun den Nutzern des
+
+65
+00:03:03,481 --> 00:03:06,401
+Dashboards ermöglichen, dynamisch zu
+
+66
+00:03:06,401 --> 00:03:09,121
+filtern und die Diagramme und
+
+67
+00:03:09,121 --> 00:03:11,441
+Statistiken auf die Information
+
+68
+00:03:11,441 --> 00:03:12,681
+beschränken oder auf die Daten
+
+69
+00:03:12,681 --> 00:03:15,121
+beschränken. Die Sie interessieren.
