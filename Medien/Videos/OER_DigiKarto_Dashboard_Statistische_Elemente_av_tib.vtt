@@ -1,0 +1,233 @@
+WEBVTT
+
+00:00:08.560 --> 00:00:12.500 
+Nun gibt es aber auch Dashboard-Elemente, die auf der Datengrundlage der Webmap
+
+00:00:12.500 --> 00:00:17.820 
+fungieren, wie zum Beispiel Diagramme, ein Indikator oder eine Skala.
+
+00:00:19.360 --> 00:00:22.740 
+Dafür ist die Einpflegung etwas komplexer.
+
+00:00:23.200 --> 00:00:29.900 
+Wir fügen am unteren Rand hier zum Beispiel mal eine Skala ein und
+
+00:00:29.900 --> 00:00:34.560 
+müssen nun ein Layer auswählen, aus dem wir die Daten nutzen möchten.
+
+00:00:35.200 --> 00:00:37.040 
+Das kann im Nachhinein auch noch geändert werden.
+
+00:00:37.740 --> 00:00:42.160 
+Wir möchten die Daten aus den Fahrradunfällen für diese Skala nutzen,
+
+00:00:42.840 --> 00:00:45.660 
+deswegen wählen wir auch diesen Layer aus.
+
+00:00:48.360 --> 00:00:51.360 
+Der Layer kann hier oben aber auch wieder geändert werden.
+
+00:00:51.880 --> 00:00:54.120 
+Wir bleiben aber bei unserem Fahrradunfall-Layer.
+
+00:00:56.080 --> 00:00:57.740 
+Nun sehen wir schon eine kleine Vorschau.
+
+00:00:59.080 --> 00:01:03.840 
+Im Bereich Filtern können nun die Gesamtzahl der Daten gefiltert werden.
+
+00:01:03.840 --> 00:01:10.460 
+Das bedeutet, wir könnten hier sagen, wir möchten nur die Daten der eines bestimmten
+
+00:01:10.460 --> 00:01:14.720 
+Regierungsbezirks beispielsweise einbezogen werden.
+
+00:01:16.260 --> 00:01:23.720 
+Das ist sinnvoll, wenn man spezifische statische Filter anwenden möchte und
+
+00:01:23.720 --> 00:01:26.040 
+nicht dynamische, wie wir später noch lernen werden.
+
+00:01:27.480 --> 00:01:29.180 
+Wir lassen dies erstmal außen vor.
+
+00:01:30.640 --> 00:01:33.780 
+Nun kommen wir zu den Wertetypen.
+
+00:01:35.300 --> 00:01:38.200 
+Einmal gibt es die Wertetyp-Statistik.
+
+00:01:39.700 --> 00:01:43.380 
+Hier wählt man zunächst eine Art von Statistik aus.
+
+00:01:44.000 --> 00:01:47.640 
+Hierbei könnt ihr euch zwischen Anzahl, Durchschnitt, Minimum,
+
+00:01:47.780 --> 00:01:49.800 
+Maximum, Summe der Standardabweichung,
+
+00:01:50.680 --> 00:01:56.260 
+dem kontinuierlichen Perzentilwert entscheiden.
+
+00:01:59.780 --> 00:02:04.060 
+Und darunter wählt ihr nun das Attribut aus, für welches ihr die Statistik berechnen wollt.
+
+00:02:05.120 --> 00:02:12.660 
+Hier ist darauf zu achten, dass sich die meisten Statistiken nur auf Felder mit
+
+00:02:12.660 --> 00:02:15.760 
+Zahlentypen wie integer oder double anwenden lassen.
+
+00:02:17.000 --> 00:02:19.340 
+Dazu gehören alle außer die Anzahl.
+
+00:02:20.800 --> 00:02:23.120 
+In unserem Beispiel besitzen wir keine Zahlenfelder,
+
+00:02:23.320 --> 00:02:24.860 
+außer die eingetragenen Koordinaten,
+
+00:02:26.420 --> 00:02:29.040 
+weil unsere Tabelle Zahlen stehen,
+
+00:02:29.600 --> 00:02:32.360 
+diese ja nur als Platzhalter dienen für die anderen Elemente,
+
+00:02:33.400 --> 00:02:36.440 
+die wir ja mit den Metadaten im Endeffekt übersetzen können.
+
+00:02:37.920 --> 00:02:41.020 
+Wir nutzen daher für das Beispiel die Statistik Anzahl,
+
+00:02:41.300 --> 00:02:46.920 
+da diese auch mit Textfeldern fungiert, und nehmen eines der Felder.
+
+00:02:47.800 --> 00:02:49.580 
+Hier ist es egal welches wir nehmen,
+
+00:02:49.900 --> 00:02:52.200 
+da wir nur die Anzahl an Features zählen,
+
+00:02:52.200 --> 00:02:56.060 
+dabei ist es egal welche Spalte wir dabei berücksichtigen.
+
+00:02:57.100 --> 00:03:01.120 
+Wir können trotzdem einfach die Istrat Spalte nehmen.
+
+00:03:05.080 --> 00:03:08.160 
+Folgend können wir noch die Minimal- und Maximalwerte einstellen.
+
+00:03:08.940 --> 00:03:16.160 
+Dabei können zwischen Statistischen und festgelegten Werten unterschieden werden.
+
+00:03:18.460 --> 00:03:22.480 
+Als Standardwerte sind beim festgelegten Werten 0 und 100 angegeben.
+
+00:03:23.700 --> 00:03:25.420 
+Da wir uns anzeigen lassen möchten,
+
+00:03:25.420 --> 00:03:28.500 
+wie viele Unfälle in einem Gebiet vorgefallen sind,
+
+00:03:28.940 --> 00:03:31.380 
+bleiben wir bei einem festgelegten Wert von 0,
+
+00:03:31.600 --> 00:03:33.700 
+da dies das absolute Minimum ist,
+
+00:03:34.300 --> 00:03:36.540 
+und nehmen einen Statistischen Maximalwert.
+
+00:03:39.920 --> 00:03:44.820 
+Hier wählen wir ebenfalls wieder die Anzahl und eines der Felder aus,
+
+00:03:45.760 --> 00:03:49.080 
+da wir die Gesamtzahl der Unfälle als Maximum haben möchten.
+
+00:03:50.920 --> 00:03:53.560 
+Dies ist hier auch schon automatisch eben.
+
+00:03:54.900 --> 00:03:57.380 
+Ihr seht jetzt auch schon im rechten Bereich die Vorschau,
+
+00:03:57.380 --> 00:04:01.860 
+dort haben wir als Minimum 0, als Maximum 19,6 Tausend,
+
+00:04:02.900 --> 00:04:07.560 
+und die derweilige Anzahl beträgt auch 19,6 Tausend.
+
+00:04:07.880 --> 00:04:10.600 
+Bisher hätte dies auch von einem Indikator durchgeführt werden können.
+
+00:04:11.220 --> 00:04:16.340 
+Aber im folgenden Kapitel lernen wir wie Filter auf Elemente angewendet werden können
+
+00:04:17.160 --> 00:04:20.420 
+und sehen dann den Mehrwert, den die Skala bringt.
+
+00:04:26.800 --> 00:04:32.160 
+Der zweite Wertetyp, Feature, ist für unser Beispiel uninteressant,
+
+00:04:32.160 --> 00:04:35.380 
+da dieser ebenfalls nur mit Zeilenfeldern arbeitet.
+
+00:04:37.620 --> 00:04:43.520 
+Hier gibt man ein Wertfeld an und bekommt für jedes Feature eine einzelne Skala.
+
+00:04:44.040 --> 00:04:46.740 
+Beispielsweise nehmen wir hier eines der Wertfelder,
+
+00:04:46.940 --> 00:04:50.020 
+das sind die Koordinatenfelder von unseren Unfällen.
+
+00:04:50.400 --> 00:04:53.660 
+Im Beispiel sieht man schon, dass dies die Skala 1,50 ist.
+
+00:04:54.400 --> 00:05:00.240 
+50 wird hier durch die maximal angezeigte Featuresangabe begrenzt.
+
+00:05:00.240 --> 00:05:06.260 
+Für diese nicht auf 50 stehen, sondern höher würden hier auch mehr Features
+
+00:05:06.260 --> 00:05:08.260 
+oder mehr Skalen angezeigt werden.
+
+00:05:09.100 --> 00:05:12.180 
+Mit anderen Datensätzen kann dies eine sehr sinnvolle Wahl sein,
+
+00:05:12.340 --> 00:05:15.540 
+da man beispielsweise die Temperaturen an mehreren Standorten
+
+00:05:15.540 --> 00:05:20.300 
+und nicht nur die durchschnittliche Temperatur von allen Standorten zusammen darstellen möchte.
+
+00:05:21.200 --> 00:05:24.380 
+Für unser Beispiel bleiben wir aber bei der Statistik.
+
+00:05:27.130 --> 00:05:32.030 
+In den anderen Tabs können nun visuelle Einstellungen vorgenommen werden.
+
+00:05:33.370 --> 00:05:38.490 
+Im Tab Skala können beispielsweise Form, Farbe und Wertformatierung durchgeführt werden.
+
+00:05:38.790 --> 00:05:42.370 
+Man kann hier zwischen verschiedenen Formen auswählen,
+
+00:05:42.610 --> 00:05:49.940 
+man kann die Werte als Prozentangaben darstellen und die Farben anpassen.
+
+00:05:52.880 --> 00:05:56.480 
+Im Tab Allgemein kann man, wie bei den nicht statistischen Elementen,
+
+00:05:56.740 --> 00:05:58.840 
+Titel und Beschreibungen zufügen.
+
+00:05:58.840 --> 00:06:04.980 
+Dies ist sehr sinnvoll, da man so direkt erkennen kann, für was diese Skala benutzt wurde.
+
+00:06:07.160 --> 00:06:13.660 
+Und so können wir nun auch statistische Elemente unserem Dashboard hinzufügen
+
+00:06:13.660 --> 00:06:15.600 
+und dies weiter aufbauen.
+

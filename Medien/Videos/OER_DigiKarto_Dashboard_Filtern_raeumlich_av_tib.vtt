@@ -1,0 +1,86 @@
+WEBVTT
+
+00:00:08.460 --> 00:00:13.140 
+Es gibt aber auch noch die Möglichkeit, räumlich zu filtern. Zuvor haben wir die
+
+00:00:13.140 --> 00:00:19.620 
+Filterung ja durch Vergleichen der Tabellen getätigt. Jetzt möchten wir
+
+00:00:19.620 --> 00:00:25.940 
+sagen, ich habe die und die Fläche auf meiner Karte, zeigt mir die Statistik
+
+00:00:25.940 --> 00:00:31.040 
+für die Werte in dieser Fläche. Das kann man auf zwei Arten machen.
+
+00:00:31.460 --> 00:00:35.840 
+Entweder ebenfalls über eine Liste oder über die Karte direkt.
+
+00:00:36.500 --> 00:00:41.640 
+Nehmen wir jetzt am Beispiel der Karte. Dort gehen wir in die Einstellung der Karte und
+
+00:00:41.640 --> 00:00:47.080 
+unter Layer Aktion. Hier seht ihr nun eure Layer. Hier wählt ihr jetzt den Layer aus,
+
+00:00:48.220 --> 00:00:55.100 
+für deren Statistik ihr den Filter anwenden wollt. Unsere Statistiken bzw. unsere Diagramme
+
+00:00:55.100 --> 00:01:00.900 
+laufen alle auf dem Layer Fahrradunfälle in NRW. Deshalb wähle ich den aus und wähle
+
+00:01:00.900 --> 00:01:08.960 
+hier Filtern aus. Jetzt habt ihr ähnlich wie eben die Übersicht über alle Diagramme in eurem
+
+00:01:08.960 --> 00:01:18.160 
+Dashboard. Wir nehmen als Beispiel erneut den Indikator und aktivieren dies. Jetzt ist es
+
+00:01:18.160 --> 00:01:26.390 
+noch wichtig, die Auswahlwerkzeuge auf der Karte zu aktivieren. Dazu müsst ihr einmal
+
+00:01:26.390 --> 00:01:33.610 
+Features auswählen aktivieren und könnt hier auswählen, welche unterschiedlichen
+
+00:01:34.290 --> 00:01:40.510 
+Auswahlwerkzeuge ihr dem Nutzer bereitstellen möchtet. Diese Auswahlwerkzeuge erscheinen nun
+
+00:01:40.510 --> 00:01:45.590 
+in der oberen rechten Ecke und hier könnt ihr auswählen, welches ihr nutzen möchtet.
+
+00:01:46.090 --> 00:01:50.190 
+Wir nehmen beispielsweise mal das Rechteck. Jetzt habt ihr die Möglichkeit auf der Karte
+
+00:01:50.190 --> 00:01:58.190 
+ein Rechteck zu zeichnen. Ihr seht die Daten werden ausgewählt und die Anzahl
+
+00:01:58.190 --> 00:02:04.010 
+der Unfälle hat sich verändert. Diese zählt nämlich jetzt nur noch die Unfälle, die hier
+
+00:02:04.010 --> 00:02:13.470 
+ausgewählt sind. Dies ist auch möglich ohne eine Auswahl auf der Karte, sondern über die
+
+00:02:13.470 --> 00:02:22.830 
+Liste. Dazu gehen wir in die Konfiguration der Liste und Traktion erneut. Hier haben wir
+
+00:02:22.830 --> 00:02:29.050 
+eben die Felder verglichen. Jetzt nehmen wir aber die räumliche Methode. Dazu brauchst keine
+
+00:02:29.050 --> 00:02:38.920 
+weiteren Einstellungen, sondern wir klicken einfach auf fertig. Wählen wir als Beispiel nun Arnsberg aus,
+
+00:02:40.540 --> 00:02:46.020 
+sehen wir, dass sich die Anzahl der Unfälle ebenfalls verändert. Dies liegt daran, dass nun,
+
+00:02:46.180 --> 00:02:52.760 
+obwohl wir die Polygone ja nicht sehen, trotzdem nur die Unfälle gezählt werden,
+
+00:02:53.440 --> 00:03:01.260 
+die sich im Bereich des Polygons der Beziehungsregung Arnsberg befinden. Auf
+
+00:03:01.260 --> 00:03:06.600 
+diese Weise könnt ihr nun den Nutzern des Dashboards ermöglichen, dynamisch zu
+
+00:03:06.600 --> 00:03:12.500 
+filtern und die Diagramme und Statistiken auf die Informationen beschränken oder auf die
+
+00:03:12.500 --> 00:03:15.240 
+Daten beschränken, die sie interessieren.
+
