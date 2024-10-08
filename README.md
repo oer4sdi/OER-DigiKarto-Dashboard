@@ -17,8 +17,8 @@ Diese Lernmaterialien sollen ein Grundverständnis über die Erstellung, Nutzung
 - Zusammenfasssung und Diskussion
 - Referenzen
 
-## Voraussetzungen
-Dieses Tutorial richtet sich an Studierende, die lagebezogene Daten statistisch Auswerten und die Ergebnisse überschaubar visualisieren möchten. Wir setzen voraus, dass Sie über Grundkenntnisse in der ArcGIS-Welt verfügen und/oder mit einem anderen GIS arbeiten können. Auch ein Zugang zu ArcGIS Online ist eine Vorraussetzung. Da die Lizenz sehr viel kostet, wird hier nicht erwartet, dass du dir ArcGIS Lizenzen kaufst. Sehr oft gibt es gratis Lizenzen, zum Beispiel bereitgestellt von Universitäten. Falls du darauf nicht zurückgreifen kannst, ist es aber auch möglich sich eine gratis Testversion zu beantragen und damit eine Story Map zu erstellen.
+## Zielgruppe und Voraussetzungen
+Dieses Tutorial richtet sich an Studierende, die lagebezogene Daten statistisch Auswerten und die Ergebnisse überschaubar visualisieren möchten. Wir setzen voraus, dass Sie über Grundkenntnisse in der ArcGIS-Welt verfügen und/oder mit einem anderen GIS arbeiten können. Auch ein Zugang zu ArcGIS Online ist eine Vorraussetzung. Da die Lizenz sehr viel kostet, wird hier nicht erwartet, dass du dir ArcGIS Lizenzen kaufst. Sehr oft gibt es gratis Lizenzen, zum Beispiel bereitgestellt von Universitäten. Falls du darauf nicht zurückgreifen kannst, ist es aber auch möglich sich eine gratis Testversion zu beantragen und damit ein Dashboard zu erstellen.
 
 
 ## Copyright and License Statement
