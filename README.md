@@ -14,7 +14,7 @@ Diese Lernmaterialien sollen ein Grundverständnis über die Erstellung, Nutzung
 - Erstellung eines Dashboards
 - Dashboard-Elemente
 - Filtern
-- Zusammenfasssung und Diskussion
+- Zusammenfasssung
 - Referenzen
 
 ## Zielgruppe und Voraussetzungen
