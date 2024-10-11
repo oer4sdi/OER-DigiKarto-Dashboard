@@ -42,6 +42,6 @@ Das Tutorial kann wie folgt referenziert werden: „OER-DigiKarto-Dashboard“, 
 
 ## Autoren und Förderhinweis
 
-Dieses Tutorial wurde am Institut für Geoinformatik der Universität Münster entwickelt. Autoren sind Florian Thiemann, Tim Ciroth, Jan Stenkamp und Albert Remke. Wir würden uns freuen, wenn Du GitHub-Stars und GitHub-Issues verwendest, um Feedback zu geben und Verbesserungen vorzuschlagen.
+Dieses Tutorial wurde am Institut für Geoinformatik der Universität Münster entwickelt. Autoren sind Florian Thiemann, Tim Ciroth und Jan Stenkamp. Wir würden uns freuen, wenn Du GitHub-Stars und GitHub-Issues verwendest, um Feedback zu geben und Verbesserungen vorzuschlagen.
 
 Das OER4SDI-Projekt wurde von der Digitalen Hochschule NRW empfohlen und wird vom Ministerium für Kultur und Wissenschaft NRW gefördert.
