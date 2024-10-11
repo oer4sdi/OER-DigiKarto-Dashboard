@@ -19,7 +19,7 @@
 | ---------- | ----------- |----------- |----------- |----------- |
 |Florian |Thiemann |||University of Muenster  |
 |Tim |Ciroth |||University of Muenster |
-|Jan |Stenkamp |||University of Muenster |
+|Jan |Stenkamp ||MSc Geoinformatics|University of Muenster |
 
 
 **Contributors**
