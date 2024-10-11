@@ -1,5 +1,5 @@
 # OER-DigiKarto-Dashboard
-In diesem Lernmaterial lernst du ArcGIS-Online Dashboards kennen. Das Tutorial vermittelt, wozu Dashboards gut sind, wie man erstellt und nutzt, und wie man sie anderen Nutzern verfügbar macht. 
+In diesem Lernmaterial lernst du ArcGIS-Online Dashboards kennen. Das Tutorial vermittelt, wozu Dashboards gut sind, wie man sie erstellt und nutzt, und wie man sie anderen Nutzern verfügbar macht. 
 
 ## Lernziele
 - Grundverständnis der Natur eines Dashboards
